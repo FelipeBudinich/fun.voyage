@@ -14,7 +14,7 @@ There have always been many paths. Most rely on craft, consistency, and the slow
 
 Yet no route guarantees success or failure: the ability to navigate structures, whether social, institutional, or informal, is as essential as the work itself. Social capital, in the form of networks, perception, and proximity to influence, shapes the creative journey as much as the act of creation.
 
-To explore this idea we can turn to four illustrative cases: two fictional, two real. [[Frédéric Moreau]] from *Sentimental Education*, [[Julie]] from *The Worst Person in the World*, [[Eminem]], and [[MrBeast]] each represent a distinct approach to the pursuit of artistic success. Their stories, drawn from different contexts, offer contrasting answers to the central question: ***how does someone become what they hope to be?***
+To explore this idea we can turn to four illustrative cases: two fictional, two real. [[Frédéric Moreau]] from *Sentimental Education*, [[Julie]] from *The Worst Person in the World*, [[Eminem]], and [[MrBeast]]. Their stories, drawn from different contexts, offer contrasting answers to the central question: ***how does someone become what they hope to be?***
 
 These examples are presented as sketches of different approximations. The author assumes that both Eminem and MrBeast would be flattered by the way they've been presented, while fictional characters allow us to examine success and failure at a personal scale and say that *any similarity to actual persons, living or dead, or actual events is purely coincidental.*
 
