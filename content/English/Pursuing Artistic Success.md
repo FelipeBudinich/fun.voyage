@@ -33,7 +33,7 @@ Aspiration is never just about output — it’s about orientation. Some create 
 
 ### Starting Points
 
-| **Inherited Access**                                          | **Self-Made Access**                                      |
+| **Open Doors**                                          | **Forced Doors**                                      |
 |---------------------------------------------------------------|------------------------------------------------------------|
 | **Frédéric**  <br> Upper middle-class  <br> Educated, socially connected  <br> Parisian elite salons | **Eminem**  <br> Working-class  <br> Dropped out of high school  <br> Detroit rap battles |
 | **Julie**  <br> Middle-class  <br> Formally educated, culturally fluent  <br> Oslo creative scene | **MrBeast**  <br> Middle-class  <br> Dropped out of college  <br> Early YouTube |
