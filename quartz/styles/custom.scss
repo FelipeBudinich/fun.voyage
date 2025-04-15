@@ -16,6 +16,12 @@ html {
     margin-bottom: 1.5rem;      /* space after each paragraph/list item roughly equal to line-height */
     letter-spacing: normal;     /* no extra letter spacing for body text */
     text-align: left;           /* left-align text (avoid full justification) */
+          /* Prevent words from breaking or wrapping in the middle */
+  overflow-wrap: normal;     
+  word-wrap: normal;         
+  word-break: keep-all;
+  hyphens: none;
+  white-space: normal;
   }
   
   /* Fine-tune list styles (optional) */
