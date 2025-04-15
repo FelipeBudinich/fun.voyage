@@ -11,7 +11,6 @@
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
   },
-  "main": "server.js",
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
@@ -19,7 +18,7 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "start": "node server.js"
+    "copy": "cp -r public ../static"
   },
   "engines": {
     "npm": ">=9.3.1",
