@@ -25,7 +25,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
   afterBody: [
-    Component.TagList(),
+    Component.ConditionalRender({
+      component:  Component.TagList(),
+      condition: (page) => page.fileData.slug !== "index",
+    })
   ],
   left: [
     Component.PageTitle(),
