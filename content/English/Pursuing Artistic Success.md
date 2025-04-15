@@ -1,9 +1,9 @@
 ---
 title: Pursuing Artistic Success
 tags:
-  - essay
-  - social-capital
-  - artistic-success
+  - Art
+  - Society
+  - Psychology
 description: A comparative analysis on leveraging social capital to pursue creative identity.
 date: 2025-04-14
 ---

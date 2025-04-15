@@ -1,7 +1,5 @@
 ---
 title: Julie
-tags:
-  - artistic-success
 description: Notes on Julie
 date: 2025-04-14
 ---

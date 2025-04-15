@@ -1,7 +1,5 @@
 ---
 title: Eminem
-tags:
-  - artistic-success
 description: Notes on Eminem
 date: 2025-04-14
 ---

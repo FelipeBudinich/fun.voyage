@@ -1,9 +1,9 @@
 ---
 title: La búsqueda del éxito artístico
 tags:
-  - ensayo
-  - capital-social
-  - éxito-artístico
+  - Arte
+  - Sociedad
+  - Psicología
 description: Un análisis comparativo sobre cómo aprovechar el capital social para construir una identidad creativa.
 date: 2025-04-14
 ---

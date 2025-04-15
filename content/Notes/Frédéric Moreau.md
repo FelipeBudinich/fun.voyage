@@ -1,7 +1,5 @@
 ---
 title: Frédéric Moreau
-tags:
-  - artistic-success
 description: Notes on Frédéric Moreau
 date: 2025-04-14
 ---

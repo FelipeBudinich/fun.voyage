@@ -1,7 +1,5 @@
 ---
 title: MrBeast
-tags:
-  - artistic-success
 description: Notes on MrBeast
 date: 2025-04-14
 ---
