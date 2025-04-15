@@ -33,7 +33,7 @@ La aspiración no trata solo del resultado —sino de la orientación. Algunos c
 
 ### Puntos de partida
 
-| **Acceso heredado**                                            | **Acceso autoconstruido**                                   |
+| **Acceso de origen**                                            | **Ascenso independiente**                                   |
 |----------------------------------------------------------------|--------------------------------------------------------------|
 | **Frédéric**  <br> Clase media alta  <br> Educado, con conexiones sociales  <br> Salones de la élite parisina | **Eminem**  <br> Clase trabajadora  <br> Abandonó la secundaria  <br> Batallas de rap en Detroit |
 | **Julie**  <br> Clase media  <br> Educación formal, fluidez cultural  <br> Escena creativa de Oslo | **MrBeast**  <br> Clase media  <br> Abandonó la universidad  <br> YouTube en sus inicios |
