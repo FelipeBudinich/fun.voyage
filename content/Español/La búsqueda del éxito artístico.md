@@ -12,7 +12,7 @@ date: 2025-04-14
 
 Siempre han existido muchos caminos. La mayoría dependen del oficio, la constancia y la lenta acumulación de reputación. Algunos iteran estratégicamente para perfeccionar su propuesta. Otros están situados cerca de _enlaces azules_, con acceso temprano a distribución, mentoría y redes creativas.
 
-Pero ningún camino garantiza el éxito o el fracaso: la capacidad de navegar estructuras —sociales, institucionales o informales— es tan esencial como la obra misma. El capital social, ya sea en forma de redes, percepción o cercanía a la influencia, moldea el trayecto creativo tanto como el acto de crear.
+Pero ningún camino garantiza el éxito o el fracaso: la capacidad de navegar estructuras —sociales, institucionales o informales— es tan esencial como la obra misma. El capital social, ya sea en forma de redes, percepción o cercanía a la influencia, moldea el trayecto creativo tanto como el acto creativo.
 
 Para explorar esta idea, podemos recurrir a cuatro casos ilustrativos: dos ficticios y dos reales. [[Frédéric Moreau]], de _La educación sentimental_; [[Julie]], de _La peor persona del mundo_; [[Eminem]] y [[MrBeast]]. Sus historias, provenientes de contextos muy distintos, ofrecen respuestas contrastantes a la pregunta central: _**¿cómo se convierte alguien en lo que espera ser?**_
 
