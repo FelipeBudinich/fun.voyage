@@ -2,6 +2,8 @@
 title: Paul Valéry
 description: Notes on Paul Valéry
 date: 2025-04-14
+tags:
+  - Art
 ---
 
 > “Our fine arts were developed, their types and uses were established, in times very different from the present, by men whose power of action upon things was insignificant in comparison with ours.  
@@ -13,5 +15,5 @@ date: 2025-04-14
 >  
 > We must expect great innovations to transform the entire technique of the arts, thereby affecting artistic invention itself and perhaps even bringing about an amazing change in our very notion of art.”  
 > 
-> — *Paul Valéry,* *Pièces sur l’art*, “La Conquête de l’ubiquité”, Paris.
+> — *Paul Valéry,* *Pièces sur l’art*, “La Conquête de l’ubiquité”, Paris. translated by Ralph Manheim, p. 225. Pantheon Books, Bollingen Series, New York, 1964. 
 
