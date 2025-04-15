@@ -1,0 +1,15 @@
+---
+title: Julie
+tags:
+  - artistic-success
+description: Notes on Julie
+date: 2025-04-14
+---
+
+Julie, the protagonist of Joachim Trier’s _The Worst Person in the World_, exemplifies a more protean approach to life and social capital: an identity defined by fluidity. Introduced as a bright woman in her late twenties who _“doesn’t quite know what she wants out of life, what she wants to be or who she wants to be with”_, Julie ​[drifts through careers and relationships with restless ease](https://www.browndailyherald.com/article/2022/02/the-worst-person-in-the-world-delights-with-phenomenal-performances#:~:text=Julie%20is%20captivating%20because%20she,follow%2C%20but%20then%20out%20of)​. 
+
+In the film’s prologue, we see Julie pinball from studying medicine to psychology to photography, each time [reinventing herself on a whim as if trying on new selves for size​](https://sydneyartsguide.com.au/the-worst-person-in-the-world-norwegian-good/#:~:text=with%20a%20prologue%20depicting%20Julie%E2%80%99s,not%20know%20what%20she%20wants). This malleability continues in her personal life: she falls in with Aksel, an older graphic novelist, then just as impulsively pivots to a new romance with the easygoing Eivind when chance sparks fly. Julie’s sense of social capital is intuitive and ever-shifting—she navigates her world by flowing into new roles and relationships, reluctant to be pinned down.
+
+Trier’s narrative, told in twelve chapters and an epilogue, uses playful, surreal touches to illustrate Julie’s fluid identity. In one celebrated sequence, time literally freezes for everyone but Julie as she jogs through Oslo to meet Eivind, pausing the world to ​pursue a fantasy of a different life. In another, a hallucinatory mushroom trip ​visualizes the turmoil of her ambivalence. These scenes, while whimsical, speak to _“very real aspects of Julie’s headspace”_, revealing her deep uncertainty and ​desire to keep her options open. Critics have praised Renate Reinsve’s performance as _“quicksilver”_, full of _“impish wit”_ and _“fluidity”_ in capturing ​[Julie’s mercurial shifts](https://www.latimes.com/entertainment-arts/movies/story/2022-02-03/worst-person-in-the-world-review-joachim-trier#:~:text=gloriously%20drifty%2C%20unruly%2C%20undetermined%20self,mobility%20of%20Kasper%20Tuxen%E2%80%99s%20cinematography). 
+
+Julie’s fluid approach means she values personal freedom and adaptability over conventional success or stability. This grants her a wide breadth of experiences and an authenticity in the moment, but also leaves her perpetually in flux. As she ages into her thirties, Julie gains self-knowledge through the very impermanence of her choices—the social connections she forms (and breaks) shape her gradually, teaching her who she is by revealing who she _doesn’t_ want to be​.

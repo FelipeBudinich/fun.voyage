@@ -1,3 +1,40 @@
 @use "./base.scss";
+  /* Base font settings for comfortable reading */
+html {
+    font-size: 100%;  /* 16px default (100% of browser default) */
+  }
+  body {
+    font-family: Georgia, "Times New Roman", serif;  /* or your chosen serif font */
+    font-size: 1rem;        /* 1rem = 16px on html, a comfortable base size */
+    line-height: 1.5;       /* 150% line-height for readability */
+    margin: 0;              /* remove default margins if any */
+  }
+  
+  /* Global text element styling */
+  p, ol, ul, blockquote, li, dd, dt {
+    max-width: 65ch;            /* limit line length to ~65 characters for legibility */
+    margin-bottom: 1.5rem;      /* space after each paragraph/list item roughly equal to line-height */
+    letter-spacing: normal;     /* no extra letter spacing for body text */
+    text-align: left;           /* left-align text (avoid full justification) */
+  }
+  
+  /* Fine-tune list styles (optional) */
+  ul, ol {
+    padding-left: 1.2rem;       /* ensure lists have some left indent for bullets/numbers */
+    margin-bottom: 1.5rem;
+  }
+  li {
+    margin-bottom: 0.75rem;     /* slightly tighter spacing between list items than paragraphs */
+  }
+  
+  table {
+    font-size: 0.9rem; /* or 14px, adjust to taste */
+  }
 
-// put your custom CSS here!
+  /* Responsive adjustment for larger screens */
+  @media (min-width: 1024px) {
+    html { font-size: 125%; }  /* bump base to ~18px (112.5% of 16px) on desktop */
+    p, ol, ul, blockquote, li, dd, dt {
+      max-width: 70ch;          /* allow a slightly wider measure on big screens */
+    }
+  }
