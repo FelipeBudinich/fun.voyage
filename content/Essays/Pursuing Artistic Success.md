@@ -90,7 +90,7 @@ And that becomes the most important question: _What does failure mean to me — 
 
 ## Outcomes
 
-Though each figure engages with creativity, institutions, and rejection, they do so with different motivations, starting conditions, and internal logics. The contrast between **self-oriented** and **audience-oriented** aspirations, or between those who **internalize failure** and those who **iterate on it**, reveals that success depends on **how** and **why** one moves through the world to achieve it.
+Though each figure engages with creativity, institutions, and rejection, they do so with different motivations, starting conditions, and internal logics. The contrast between **self-oriented** and **audience-oriented** aspirations, or between those who **internalize failure** and those who **iterate on it**, reveals that success depends on **how** and **why** one moves through the world to achieve creative success.
 
 Everyone gets exactly (or almost exactly) what they pursue.
 

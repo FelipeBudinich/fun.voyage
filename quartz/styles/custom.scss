@@ -31,8 +31,23 @@ html {
   }
   li {
     margin-bottom: 0.75rem;     /* slightly tighter spacing between list items than paragraphs */
+              /* Prevent words from breaking or wrapping in the middle */
+  overflow-wrap: normal;     
+  word-wrap: normal;         
+  word-break: keep-all;
+  hyphens: none;
+  white-space: normal;
   }
   
+  a {
+              /* Prevent words from breaking or wrapping in the middle */
+  overflow-wrap: normal;     
+  word-wrap: normal;         
+  word-break: keep-all;
+  hyphens: none;
+  white-space: normal;
+  }
+
   table {
     font-size: 0.9rem; /* or 14px, adjust to taste */
   }
