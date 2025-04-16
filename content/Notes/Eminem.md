@@ -1,7 +1,7 @@
 ---
 title: Eminem
 description: Notes on Eminem
-date: 2025-04-14
+date: 2025-04-13
 ---
 
 In the realm of hip-hop, Eminem (Marshall Mathers) built his fame on an uncompromising authenticity that both shocked and captivated the world. He emerged in the late 1990s as an unlikely underdog—a white rapper from Detroit’s 8 Mile Road—who earned his social capital in the Black-dominated battle rap scene through sheer skill and sincerity. Like the fictional hero of his film _8 Mile_, the young Eminem honed his craft in freestyle battles at local open-mic nights, _“attending open mics at the Hip Hop Shop on West 7 Mile as a teen”_ and ​[routinely facing down rivals who tested his credibility](https://hiphopdx.com/news/id.64378/title.how-eminem-loss-at-1997-rap-olympics-ultimately-led-to-dr-dre-deal#:~:text=Eminem%20is%20often%20considered%20one,7%20Mile%20as%20a%20teen).

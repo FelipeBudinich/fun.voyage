@@ -1,7 +1,7 @@
 ---
 title: Paul Valéry
 description: Notes on Paul Valéry
-date: 2025-04-14
+date: 2025-04-15
 tags:
   - Art
 ---

@@ -1,7 +1,7 @@
 ---
 title: Julie
 description: Notes on Julie
-date: 2025-04-14
+date: 2025-04-13
 ---
 
 Julie, the protagonist of Joachim Trier’s _The Worst Person in the World_, exemplifies a more protean approach to life and social capital: an identity defined by fluidity. Introduced as a bright woman in her late twenties who _“doesn’t quite know what she wants out of life, what she wants to be or who she wants to be with”_, Julie ​[drifts through careers and relationships with restless ease](https://www.browndailyherald.com/article/2022/02/the-worst-person-in-the-world-delights-with-phenomenal-performances#:~:text=Julie%20is%20captivating%20because%20she,follow%2C%20but%20then%20out%20of)​. 

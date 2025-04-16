@@ -1,7 +1,7 @@
 ---
 title: MrBeast
 description: Notes on MrBeast
-date: 2025-04-14
+date: 2025-04-13
 ---
 
 YouTube superstar MrBeast (Jimmy Donaldson) has engineered his success through relentless optimization. A self-described student of the YouTube platform, Donaldson spent his teenage years analyzing viral content like a scientist in a lab. He famously joined a group of fellow small creators in daily online calls to dissect what makes videos succeed – scrutinizing pacing, topics, and thumbnails in marathon sessions [from morning to night​](https://www.shopify.com/blog/mrbeast-business-backstory#:~:text=In%20the%20earlier%20days%20of,and%20intricately%20understand%20his%20audience).

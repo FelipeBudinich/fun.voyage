@@ -5,7 +5,7 @@ tags:
   - Society
   - Psychology
 description: A comparative analysis on leveraging social capital to pursue creative identity.
-date: 2025-04-14
+date: 2025-04-13
 ---
 
 ## What is a creative person to do to achieve their goals?

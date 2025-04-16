@@ -5,7 +5,7 @@ tags:
   - Sociedad
   - Psicología
 description: Un análisis comparativo sobre cómo aprovechar el capital social para construir una identidad creativa.
-date: 2025-04-14
+date: 2025-04-13
 ---
 
 ## ¿Qué puede hacer una persona creativa para alcanzar sus metas?
