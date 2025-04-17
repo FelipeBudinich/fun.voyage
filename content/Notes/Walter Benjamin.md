@@ -71,7 +71,7 @@ As his account moves forward, what stands out is Benjamin’s framing of photogr
 > For the first time in the process of pictorial reproduction, photography freed the hand of the most important artistic functions which henceforth devolved only upon the eye looking into a lens.
 > Since the eye perceives more swiftly than the hand can draw, the process of pictorial reproduction was accelerated so enormously that it could keep pace with speech. A film operator shooting a scene in the studio captures the images at the speed of an actor’s speech.
 
-Wouldn’t use the word “devolved,” though—the term implies a loss that feels overstated. It risks undermining Benjamin’s position against “creative genius” by reducing art to craft. [^4]
+Wouldn’t use the word “devolved,” though—the term implies a loss that feels overstated. It risks undermining Benjamin’s position against “creative genius” by equating art to craft. [^4]
 
 > These convergent endeavors made predictable a situation which Paul Valéry pointed up in this sentence: “Just as water, gas, and electricity are brought into our houses from far off to satisfy our needs in response to a minimal effort, so we shall be supplied with visual or auditory images, which will appear and disappear at a simple movement of the hand, hardly more than a sign.” (op. cit., p. 226)
 
