@@ -57,11 +57,39 @@ But that dominance, too, eventually fractured. Art scattered in many directions 
 
 In this author's opinion, we do not need a politics of art. We must begin with the refusal to be mobilized. Art for art’s sake doesn’t lead to institutional violence. Art that obeys does.
 
+### Chapter 1 Notes
+
+In this section, Benjamin offers a concise and convincing overview of reproduction techniques. However, I would have begun by noting the deeper tradition of **mimesis**—art as imitation of nature—which predates the reproduction of man-made artifacts. Its absence narrows the historical framing.
+
+> With the woodcut graphic art became mechanically reproducible for the first time, long before script became reproducible by print.
+> The enormous changes which printing, the mechanical reproduction of writing, has brought about in literature are a familiar story. However, within the phenomenon which we are here examining from the perspective of world history, print is merely a special, though particularly important, case.
+
+This is broadly accurate, but a little Eurocentric. **Mesopotamian seal prints (c. 3200 BC)** already mechanized image reproduction in a meaningful way.
+
+As his account moves forward, what stands out is Benjamin’s framing of photography as a decisive historical break: a shift from **manual craft to optical capture**.
+
+> For the first time in the process of pictorial reproduction, photography freed the hand of the most important artistic functions which henceforth devolved only upon the eye looking into a lens.
+> Since the eye perceives more swiftly than the hand can draw, the process of pictorial reproduction was accelerated so enormously that it could keep pace with speech. A film operator shooting a scene in the studio captures the images at the speed of an actor’s speech.
+
+Wouldn’t use the word “devolved,” though—the language suggests a loss that feels overstated. It undermines Benjamin's position against "creative genius" by reducing Art to Craft . [^4]
+
+> These convergent endeavors made predictable a situation which Paul Valéry pointed up in this sentence: “Just as water, gas, and electricity are brought into our houses from far off to satisfy our needs in response to a minimal effort, so we shall be supplied with visual or auditory images, which will appear and disappear at a simple movement of the hand, hardly more than a sign.” (op. cit., p. 226)
+
+Valéry was a visionary. This prediction feels strikingly contemporary in the age of streaming platforms and voice-controlled interfaces.
+
+> Around 1900 technical reproduction had reached a standard that not only permitted it to reproduce all transmitted works of art and thus to cause the most profound change in their impact upon the public; it also had captured a place of its own among the artistic processes.
+> For the study of this standard nothing is more revealing than the nature of the repercussions that these two different manifestations—the reproduction of works of art and the art of the film—have had on art in its traditional form.
+
+This closing observation sets the stage for the rest of the text. Reproduction not only transformed how art is experienced—it **became an artistic mode in its own right**.
+
 [^1]: From a contemporary vantage point, however, this appeal to "early capitalism" can feel naïve or even circular, especially when viewed against the disillusionment surrounding “late-stage capitalism,” the political collapse of the Soviet Union, and the economic pivot from Maoism to Dengism in China.
 
 [^2]: The claim that capitalism would not only intensify exploitation but also ultimately create the conditions for its own abolition now reads more as metaphysical faith than material analysis. While exploitation persists in various forms, the broader trend has been a dramatic rise in global living standards. In China, following the 1978 reforms, Dengism abandoned the Marxist emphasis on class struggle as the motor of history, recasting development itself as the central task of socialism. “Development is the hard truth” (发展才是硬道理) became the guiding slogan of this shift.
 
 [^3]: The same year Benjamin published this essay, _Triumph of the Will_ was released (1935). The reproducibility of film, far from preventing fascist aesthetics, became their vehicle. The politicization of art, far from undermining fascism, became its propaganda arm. Even the aura didn’t so much decay as **transfer**—from original artwork to orchestrated myth. Fascism did not resist the new means of production; it did not use them unthinkingly. It mastered them—with precision and intent—for its own sinister ends.
+
+[^4]: This may reflect a limitation in the translation, but it’s also a shortcoming on my part that I haven't consulted the original German directly to confirm what word Benjamin actually used.
+
 
 
 
