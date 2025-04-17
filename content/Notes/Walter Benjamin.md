@@ -71,7 +71,7 @@ As his account moves forward, what stands out is Benjamin’s framing of photogr
 > For the first time in the process of pictorial reproduction, photography freed the hand of the most important artistic functions which henceforth devolved only upon the eye looking into a lens.
 > Since the eye perceives more swiftly than the hand can draw, the process of pictorial reproduction was accelerated so enormously that it could keep pace with speech. A film operator shooting a scene in the studio captures the images at the speed of an actor’s speech.
 
-Wouldn’t use the word “devolved,” though—the language suggests a loss that feels overstated. It undermines Benjamin's position against "creative genius" by reducing Art to Craft . [^4]
+Wouldn’t use the word “devolved,” though—the term implies a loss that feels overstated. It risks undermining Benjamin’s position against “creative genius” by reducing art to craft. [^4]
 
 > These convergent endeavors made predictable a situation which Paul Valéry pointed up in this sentence: “Just as water, gas, and electricity are brought into our houses from far off to satisfy our needs in response to a minimal effort, so we shall be supplied with visual or auditory images, which will appear and disappear at a simple movement of the hand, hardly more than a sign.” (op. cit., p. 226)
 
@@ -88,7 +88,7 @@ This closing observation sets the stage for the rest of the text. Reproduction n
 
 [^3]: The same year Benjamin published this essay, _Triumph of the Will_ was released (1935). The reproducibility of film, far from preventing fascist aesthetics, became their vehicle. The politicization of art, far from undermining fascism, became its propaganda arm. Even the aura didn’t so much decay as **transfer**—from original artwork to orchestrated myth. Fascism did not resist the new means of production; it did not use them unthinkingly. It mastered them—with precision and intent—for its own sinister ends.
 
-[^4]: This may reflect a limitation in the translation, but it’s also a shortcoming on my part that I haven't consulted the original German directly to confirm what word Benjamin actually used.
+[^4]: This may reflect a limitation in the translation, but it’s also a shortcoming on my part as I haven't consulted the original German directly to confirm what word Benjamin actually used.
 
 
 
