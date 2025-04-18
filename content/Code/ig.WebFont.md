@@ -39,7 +39,7 @@ Creates and loads a web font for use in the canvas.
     
     - `color` _(string, optional)_: Color of the text. Defaults to `'#ffffff'`.
         
-    - `alpha` _(number, optional)_: Transparency from 0 (transparent) to 1 (opaque). Defaults to `1`.
+    - `alpha` _(number, optional)_: Alpha from 0 (transparent) to 1 (opaque). Defaults to `1`.
         
     - `letterSpacing` _(number, optional)_: Additional spacing between letters. Defaults to `0`.
         
