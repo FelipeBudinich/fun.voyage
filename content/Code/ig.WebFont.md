@@ -1,6 +1,4 @@
 
-## Class Reference: ig.WebFont
-
 [**Plugin version 1.0.0**](https://gist.github.com/FelipeBudinich/a9d9b1eab8a938785964e4641c8459e4)
 
 ## Synopsis
@@ -103,7 +101,12 @@ Outline thickness in pixels. Default is `2`.
 
 ### .draw( )
 ```javascript
- webfont.draw( text, x, y, [align] )
+let text = 'Hello world!',
+	x = 256,
+	y = 128,
+	align = ig.WebFont.ALIGN.RIGHT;
+	
+ webfont.draw( text, x, y, align )
 ```
 
 Draws text at a specified position.
@@ -121,7 +124,8 @@ Draws text at a specified position.
 
 ### .widthForString( )
 ```javascript
- webfont.widthForString('some text')
+ let text = 'how wide is this text?';
+ webfont.widthForString(text)
 ```
 Measures text width.
 
@@ -137,7 +141,8 @@ Measures text width.
 
 ### .heightForString(  )
 ```javascript
- webfont.heightForString('some text')
+ let text = 'how tall is this text?'
+ webfont.heightForString(text)
 ```
 
 Measures text height.
@@ -154,7 +159,10 @@ Measures text height.
 
 ## Static Properties
 
-### ig.WebFont.ALIGN
+### .ALIGN
+```javascript
+ ig.WebFont.ALIGN
+```
 
 Enumeration for alignment options:
 
@@ -164,7 +172,3 @@ Enumeration for alignment options:
     
 - `CENTER`: Center-aligned.
     
-
-### ig.WebFont.faceCache
-
-Internal cache for loaded fonts, tracking loading states (`'ok'`, `'fail'`, or a loading Promise).
