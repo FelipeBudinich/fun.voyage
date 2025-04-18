@@ -101,7 +101,7 @@ Outline thickness in pixels. Default is `2`.
 
 ## Methods
 
-### .draw( text, x, y, [align] )
+### .draw( )
 ```javascript
  webfont.draw( text, x, y, [align] )
 ```
@@ -119,7 +119,7 @@ Draws text at a specified position.
 - **align** _(optional)_: Alignment (`ig.WebFont.ALIGN.LEFT`, `ig.WebFont.ALIGN.RIGHT`, or `ig.WebFont.ALIGN.CENTER`). Default is left-aligned.
     
 
-### .widthForString( text )
+### .widthForString( )
 ```javascript
  webfont.widthForString('some text')
 ```
@@ -135,7 +135,7 @@ Measures text width.
 - _(number)_: Width in pixels.
     
 
-### .heightForString( text )
+### .heightForString(  )
 ```javascript
  webfont.heightForString('some text')
 ```
