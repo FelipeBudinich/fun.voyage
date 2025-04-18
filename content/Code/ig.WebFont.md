@@ -1,4 +1,13 @@
-
+---
+title: ig.WebFont
+description: An `ig.WebFont` allows you to dynamically load and render TrueType or OpenType fonts using the browser's FontFace API, fully integrated with ImpactJS's resource loader system.
+date: 2025-04-18
+tags:
+  - Technology
+  - Code
+  - Javascript
+  - ImpactJs
+---
 [**Plugin version 1.0.0**](https://gist.github.com/FelipeBudinich/a9d9b1eab8a938785964e4641c8459e4)
 
 ## Synopsis
