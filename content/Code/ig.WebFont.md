@@ -1,19 +1,19 @@
 
-## Class Reference: WebFont
+## Class Reference: ig.WebFont
 
 **Plugin version 1.0.0**  ![[Code/webfont.js]]
 
 ## Synopsis
 
 ```javascript
-var font = new ig.WebFont({
+var webfont = new ig.WebFont({
   file: 'fonts/MyFont.ttf',
   size: '24px',
   family: 'MyFont',
   color: '#ffffff'
 });
 
-font.draw('Hello World', x, y, ig.WebFont.ALIGN.CENTER);
+webfont.draw('Hello World', x, y, ig.WebFont.ALIGN.CENTER);
 ```
 
 ## Description
@@ -22,8 +22,9 @@ An `ig.WebFont` allows you to dynamically load and render TrueType or OpenType f
 
 ## Constructor
 
-### new ig.WebFont( descriptor )
-
+```javascript
+new ig.WebFont( descriptor )
+```
 Creates and loads a web font for use in the canvas.
 
 #### Parameters:
@@ -32,11 +33,12 @@ Creates and loads a web font for use in the canvas.
     
     - `file` _(string)_: Path to the font file.
         
-    - `size` _(string)_: Font size (e.g., `'24px'`). Defaults to `'20px'` if omitted.
-        
     - `family` _(string)_: Font family name as recognized by CSS.
         
 - optionally it may contain:
+  
+    - `size` _(string)_: Font size (e.g., `'24px'`). Defaults to `'20px'` if omitted.
+    
     - `color` _(string, optional)_: Color of the text. Defaults to `'#ffffff'`.
         
     - `alpha` _(number, optional)_: Transparency from 0 (transparent) to 1 (opaque). Defaults to `1`.
@@ -54,9 +56,9 @@ Creates and loads a web font for use in the canvas.
 
 ```javascript
 var font = new ig.WebFont({
-  file: 'fonts/ArcadeClassic.ttf',
+  file: 'fonts/ArcadeClassic.ttf', //required
   size: '32px',
-  family: 'ArcadeClassic',
+  family: 'ArcadeClassic', //required
   color: '#00ff00',
   outline: '#000000',
   outlineWidth: 3
@@ -98,8 +100,9 @@ Outline color. Default is `null` (no outline).
 Outline thickness in pixels. Default is `2`.
 
 ## Methods
-
-### .draw( text, x, y, [align] )
+```javascript
+ webfont.draw( text, x, y, [align] )
+```
 
 Draws text at a specified position.
 
@@ -115,7 +118,9 @@ Draws text at a specified position.
     
 
 ### .widthForString( text )
-
+```javascript
+ webfont.widthForString('some text')
+```
 Measures text width.
 
 #### Parameters:
@@ -159,19 +164,6 @@ Enumeration for alignment options:
 
 Internal cache for loaded fonts, tracking loading states (`'ok'`, `'fail'`, or a loading Promise).
 
-## Example Usage
-
 ```javascript
-var font = new ig.WebFont({
-  file: 'fonts/PixelFont.ttf',
-  size: '16px',
-  family: 'PixelFont',
-  color: '#ffcc00',
-  outline: '#000000',
-  outlineWidth: 2
-});
 
-if (font.loaded) {
-  font.draw('Score: 100', 10, 10, ig.WebFont.ALIGN.LEFT);
-}
 ```
