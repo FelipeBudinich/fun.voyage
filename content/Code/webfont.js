@@ -33,7 +33,7 @@ ig.WebFont = ig.Class.extend({
 
 		this.path   = desc.file;
 		this.family = desc.family;
-		this.cssFont = desc.css || ( '20px ' + this.family );
+		this.cssFont = (desc.size + ' ' + this.family) || ( '20px' + ' ' + this.family );
 
 		if( 'color'         in desc ) this.color         = desc.color;
 		if( 'alpha'         in desc ) this.alpha         = desc.alpha;
