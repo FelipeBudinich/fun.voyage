@@ -1,7 +1,7 @@
 
 ## Class Reference: ig.WebFont
 
-**Plugin version 1.0.0**  ![[Code/webfont.js]]
+[**Plugin version 1.0.0**](https://gist.github.com/FelipeBudinich/a9d9b1eab8a938785964e4641c8459e4)
 
 ## Synopsis
 
@@ -100,6 +100,8 @@ Outline color. Default is `null` (no outline).
 Outline thickness in pixels. Default is `2`.
 
 ## Methods
+
+### .draw( text, x, y, [align] )
 ```javascript
  webfont.draw( text, x, y, [align] )
 ```
@@ -134,6 +136,9 @@ Measures text width.
     
 
 ### .heightForString( text )
+```javascript
+ webfont.heightForString('some text')
+```
 
 Measures text height.
 
@@ -163,7 +168,3 @@ Enumeration for alignment options:
 ### ig.WebFont.faceCache
 
 Internal cache for loaded fonts, tracking loading states (`'ok'`, `'fail'`, or a loading Promise).
-
-```javascript
-
-```
