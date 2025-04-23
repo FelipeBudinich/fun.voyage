@@ -10,6 +10,8 @@ date: 2025-04-13
 
 ## ¿Qué puede hacer una persona creativa para alcanzar sus metas?
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Z01UMMf7V1o0MzF86s6WJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Siempre han existido muchos caminos. La mayoría dependen del oficio, la constancia y la lenta acumulación de reputación. Algunos iteran estratégicamente para perfeccionar su propuesta. Otros están situados cerca de _enlaces azules_, con acceso temprano a distribución, mentoría y redes creativas.
 
 Pero ningún camino garantiza el éxito o el fracaso: la capacidad de navegar estructuras —sociales, institucionales o informales— es tan esencial como la obra misma. El capital social, ya sea en forma de redes, percepción o cercanía a la influencia, moldea el trayecto creativo tanto como el acto creativo.

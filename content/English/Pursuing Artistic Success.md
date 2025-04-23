@@ -10,6 +10,8 @@ date: 2025-04-13
 
 ## What is a creative person to do to achieve their goals?
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Z01UMMf7V1o0MzF86s6WJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 There have always been many paths. Most rely on craft, consistency, and the slow accumulation of reputation. Some iterate strategically to refine their output. Others are situated next to _blue links_, gaining early exposure to distribution, mentorship, and creative networks.
 
 Yet no route guarantees success or failure: the ability to navigate structures, whether social, institutional, or informal, is as essential as the work itself. Social capital, in the form of networks, perception, and proximity to influence, shapes the creative journey as much as the act of creation.
