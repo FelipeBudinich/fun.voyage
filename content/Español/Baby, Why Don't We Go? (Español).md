@@ -1,12 +1,11 @@
 ---
-title: Baby, Why Don't We Go?
+title: Baby, Why Don't We Go? (Español)
 tags:
   - Ideas
   - Feelings
   - Culture
   - Music
   - Critic
-    
 description: _Kokomo_ nos recuerda que, sin importar cuán difíciles se pongan las cosas, siempre existe la posibilidad de renovación, alegría y redescubrimiento.
 date: 2025-04-23
 ---
