@@ -58,7 +58,7 @@ Porque la base de Kantar [**deduplica espectadores entre pantallas**](https://ww
 |Realidad anterior|Nueva realidad|
 |---|---|
 |Tres plataformas, tres paneles inverificables|Una sóla curva deduplicada|
-|“Créeme mis _uniques_ autoinformados”|“Aquí está mi alcance Kantar versus cable prime-time”|
+|“Créeme mis _uniques_ autoinformados”|“Aquí está mi alcance versus cable prime-time”|
 |Descuento CPM por _medio no probado_|Paridad de tarifa con video digital|
 
 ---
