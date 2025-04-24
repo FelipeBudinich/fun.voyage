@@ -53,7 +53,7 @@ Hay oportunidad. Un streamer medio que sobresalga en un demográfico valioso pue
 
 ## 4. El empaquetado multiplataforma será la norma
 
-Porque la base de Kantar [**deduplica espectadores entre pantallas**](https://www.kantar.com/north-america/expertise/audience-measurement/cross-media-campaign-measurement?utm_source=chatgpt.com), los creadores que diversifican—directo en Twitch, clips en TikTok, VOD largo en YouTube—pueden **presentar una cifra única y limpia de alcance**. Así, el relato multisuperficie cobra sentido financiero:
+Porque la base de Kantar [**deduplica espectadores entre pantallas**](https://www.kantar.com/north-america/expertise/audience-measurement/cross-media-campaign-measurement?utm_source=chatgpt.com), los creadores que diversifican—directo en Twitch, clips en TikTok, VOD largo en YouTube—pueden **presentar una cifra única y limpia de alcance**. Así, el relato multisuperficie cobra sentido comercial:
 
 |Realidad anterior|Nueva realidad|
 |---|---|
