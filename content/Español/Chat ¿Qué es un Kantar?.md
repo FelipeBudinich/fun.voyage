@@ -24,7 +24,7 @@ Esto traerá cambios que todo creador de contenido debe entender.
 
 Ser medido es ser _definido_. El beneficio es inmediato: **los creadores ganan legitimidad institucional**. El costo es más sutil: una vez dentro del panel, tu éxito se calibra con **KPIs heredados**. Es el viejo trueque que Paul Valéry anticipó cuando la técnica reconfigura el arte: _“las grandes innovaciones transforman la técnica entera de las artes, afectando a la invención artística misma.”_ —Paul Valéry
 
-Prepárate para una leve deriva hacia duraciones “óptimas”, bloques publicitarios calculados y segmentación _family-friendly_ que maximice la frecuencia. Algunos abrazarán la disciplina; otros sentirán cómo la métrica que trajo el billete le lima los bordes puntudos a su contenido.
+Prepárate para una leve deriva hacia duraciones “óptimas”, bloques publicitarios calculados y segmentación _family-friendly_ que maximice la frecuencia. Algunos abrazarán la disciplina; otros sentirán cómo la métrica los obliga a homogenizar su contenido.
 
 ---
 
