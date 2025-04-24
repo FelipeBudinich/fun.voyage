@@ -57,7 +57,7 @@ Porque la base de Kantar [**deduplica espectadores entre pantallas**](https://ww
 
 |Realidad anterior|Nueva realidad|
 |---|---|
-|Tres plataformas, tres paneles inverificables|Una curva deduplicada en la herramienta de agencia|
+|Tres plataformas, tres paneles inverificables|Una sóla curva deduplicada|
 |“Créeme mis _uniques_ autoinformados”|“Aquí está mi alcance Kantar versus cable prime-time”|
 |Descuento CPM por _medio no probado_|Paridad de tarifa con video digital|
 
@@ -86,7 +86,7 @@ Navegar esa tensión es el nuevo acto creativo.
 
 ---
 
-## Acciones prácticas
+## Acciones prácticas para el futuro próximo
 
   
 1. **Potencia tu embudo cruzado**  
