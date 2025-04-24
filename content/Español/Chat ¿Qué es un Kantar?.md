@@ -88,19 +88,11 @@ Navegar esa tensión es el nuevo acto creativo.
 
 ## Acciones prácticas para los próximos seis meses
 
-1. **Pide los datos**  
-    Si tu mercado está medido por Kantar, solicita a tu partner manager los reportes de _Cross-Media Performance_.
-    
-2. **Ajusta tu media kit**  
-    Sustituye “seguidores” autoinformados por alcance y frecuencia Kantar. Incluye co-viewing (varios espectadores por smart TV), un plus silencioso para IRL.
-    
-3. **Dibuja tu embudo cruzado**  
+  
+1. **Dibuja tu embudo cruzado**  
     Usa clips y shorts como _back-traffic_ pagado hacia el directo: cada espectador deduplicado suma.
     
-4. **Experimenta con pods publicitarios**  
-    Prueba bloques mid-roll alineados con la definición de minuto comercial de Kantar; pequeños ajustes pueden elevar minutos valorados sin saturar de anuncios.
-    
-5. **Protege lo raro**  
+2. **Protege lo raro**  
     Crea segmentos “no medidos”: horas para patrons, Q&A en Discord. Preserva espacios donde la creatividad responda sólo a la comunidad.
     
 

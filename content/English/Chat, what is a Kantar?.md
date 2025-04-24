@@ -88,19 +88,11 @@ Navigating that tension is the new creative act.
 
 ## Practical takeaways for the next six months
 
-1. **Request the data**  
-    If you are in a Kantar-measured market, ask your platform partner manager how to access _Cross-Media Performance_ reports.
-    
-2. **Tune your media kit**  
-    Replace self-reported “followers” with Kantar reach and frequency. Specify co-viewing uplift (multiple viewers per connected TV screen—a quiet bonus for IRL streams).
-    
-3. **Map your crossover funnel**  
+  
+1. **Map your crossover funnel**  
     Use clips and shorts as paid _back-traffic_ into the live show—every deduped viewer is incremental to the core metric.
     
-4. **Experiment with ad pods**  
-    Test mid-roll clusters aligned with Kantar’s commercial minute definition; small tweaks in break structure can lift rated minutes without bloating ad load.
-    
-5. **Guard the weird**  
+2. **Guard the weird**  
     Institute “unrated” segments—patron-only hours, backstage Discord Q&As—where the metric cannot follow. Preserve spaces where creativity is accountable only to the community.
     
 
