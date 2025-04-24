@@ -12,11 +12,11 @@ tags:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2PnlsTsOTLE5jnBnNe2K0A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Durante la corta y caótica historia del livestream, las cifras de audiencia han sido _propiedad de la plataforma_. Twitch, YouTube, Kick… cada una publica sus métricas envueltas en opacidad propietaria. Las marcas se las creen sólo hasta cierto punto, las agencias encogen los hombros y los creadores que intentan _profesionalizar_ sus canales habitan una penumbra: famosos ante millones, infravalorados por compradores que aún destinan la mayor parte de sus presupuestos a datos televisivos auditados.
+Durante la corta y caótica historia del livestream, las cifras de audiencia han sido _propiedad de la plataforma_. Twitch, YouTube, Kick… cada una publica sus métricas envueltas en opacidad propietaria. Las marcas las creen sólo hasta cierto punto, las agencias encogen los hombros y los creadores que intentan _profesionalizar_ sus canales habitan una penumbra: famosos ante millones, infravalorados por compradores que aún destinan la mayor parte de sus presupuestos a datos televisivos auditados.
 
 Esa asimetría empieza a resquebrajarse. **El sistema Cross-Media de Kantar IBOPE Media**—la lengua franca de la TV lineal en América Latina—ahora se conecta directamente con entornos de streaming como [Twitch](https://anda.cl/revista/chile-contara-con-una-de-las-mediciones-de-tv-mas-avanzadas-de-la-region-y-del-mundo/). En la práctica, el mismo medidor que decide las tarifas de horario central en Santiago o São Paulo puede verte hacer speed-run de _Elden Ring_ o debatir los _patch notes_ con el chat.
 
-A continuación, cinco cambios que todo creador de contenido debe entender.
+Esto traerá cambios que todo creador de contenido debe entender.
 
 ---
 
@@ -39,7 +39,7 @@ Los medios transan en monedas que confían; el resto es anécdota. Cuando las im
 - **Compromisos más largos**: anuales, no puntuales, porque el rendimiento se compara trimestre a trimestre.
     
 
-En resumen: cuando tus números viven en la misma planilla que las clasificatorias de _FIFA_, accedes al mismo presupuesto.
+En resumen: cuando tus números viven en la misma planilla que las clasificatorias para el mundial de la _FIFA_, accedes al mismo presupuesto.
 
 ---
 
@@ -63,9 +63,9 @@ Porque la base de Kantar [**deduplica espectadores entre pantallas**](https://ww
 
 ---
 
-## 5. Los bucles de optimización se aceleran
+## 5. Los bucles de optimización se acelerarán
 
-El panel cross-media de Kantar en Chile entrega **reportes overnight** y, en pilotos selectos, lecturas _casi en tiempo real_. Las marcas exigirán rotaciones creativas rápidas; los streamers capaces de testear overlays, pausas y co-hosts al vuelo aprenderán más rápido que la competencia.
+El panel cross-media de Kantar en Chile entrega **reportes overnight** y, en pilotos selectos, lecturas _casi en tiempo real_. Las marcas exigirán rotaciones creativas rápidas; los streamers capaces de probar overlays, pausas y co-anfitriones al vuelo aprenderán más rápido que la competencia.
 
 ---
 
@@ -86,13 +86,13 @@ Navegar esa tensión es el nuevo acto creativo.
 
 ---
 
-## Acciones prácticas para los próximos seis meses
+## Acciones prácticas
 
   
-1. **Dibuja tu embudo cruzado**  
-    Usa clips y shorts como _back-traffic_ pagado hacia el directo: cada espectador deduplicado suma.
+1. **Potencia tu embudo cruzado**  
+    Usa clips y shorts como _back-traffic_ hacia el directo: cada espectador deduplicado suma.
     
-2. **Protege lo raro**  
+2. **Protege lo que te hace especial**  
     Crea segmentos “no medidos”: horas para patrons, Q&A en Discord. Preserva espacios donde la creatividad responda sólo a la comunidad.
     
 
@@ -100,8 +100,8 @@ Navegar esa tensión es el nuevo acto creativo.
 
 ## Nota final sobre poder y posibilidad
 
-La medición nunca es neutral. El medidor codifica no sólo quién mira, sino _quién cuenta_. Cuando el livestream se sube a esa balanza, sube de peso económico pero acepta la mirada disciplinante de la economía mediática heredada.
+La medición nunca es neutral. El medidor codifica no sólo quién mira, sino _quién cuenta_. Cuando el livestream se sube a esa balanza, sube de peso económico pero acepta la mirada disciplinante de la economía mediática tradicional.
 
-Y aun así—como la línea eléctrica de Valéry, como la cámara de Benjamin—cada nuevo instrumento expande el escenario. La streamer de Antofagasta puede sentarse en la misma mesa de negociación que el ejecutivo de Las Condes. Si entiende tanto a su comunidad como a su moneda, puede doblar la métrica para financiar arte que siga siendo gloriosamente _en vivo_—volátil, conversacional, abierto al azar.
+Y aun así—como la línea eléctrica de Valéry, como la cámara de Benjamin—cada nuevo instrumento expande el escenario. La streamer de Antofagasta puede sentarse en la misma mesa de negociación que el ejecutivo de Las Condes. Si entiende tanto a su comunidad como a su moneda, puede doblar la métrica para financiar arte que siga siendo gloriosamente _en vivo_—volátil, conversacional, abierto a la espontaneidad.
 
 La próxima jugada es tuya.
