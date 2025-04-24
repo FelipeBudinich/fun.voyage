@@ -10,6 +10,8 @@ tags:
 
 ## Un comprador de anuncios entró al chat
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2PnlsTsOTLE5jnBnNe2K0A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Durante la corta y caótica historia del livestream, las cifras de audiencia han sido _propiedad de la plataforma_. Twitch, YouTube, Kick… cada una publica sus métricas envueltas en opacidad propietaria. Las marcas se las creen sólo hasta cierto punto, las agencias encogen los hombros y los creadores que intentan _profesionalizar_ sus canales habitan una penumbra: famosos ante millones, infravalorados por compradores que aún destinan la mayor parte de sus presupuestos a datos televisivos auditados.
 
 Esa asimetría empieza a resquebrajarse. **El sistema Cross-Media de Kantar IBOPE Media**—la lengua franca de la TV lineal en América Latina—ahora se conecta directamente con entornos de streaming como [Twitch](https://anda.cl/revista/chile-contara-con-una-de-las-mediciones-de-tv-mas-avanzadas-de-la-region-y-del-mundo/). En la práctica, el mismo medidor que decide las tarifas de horario central en Santiago o São Paulo puede verte hacer speed-run de _Elden Ring_ o debatir los _patch notes_ con el chat.

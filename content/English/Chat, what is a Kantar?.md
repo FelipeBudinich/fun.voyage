@@ -10,6 +10,8 @@ tags:
 
 ## Ad buyer walked into the chat
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2PnlsTsOTLE5jnBnNe2K0A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 For most of live-streaming’s short, unruly history, audience numbers have been _platform property_. Twitch, YouTube, Kick, each published its own metrics, wrapped in opacity. Brands believed the figures only so far, media agencies shrugged, and creators trying to _professionalise_ their channels habitated a penumbra: famous to millions, undervalued by buyers who still allocate most of their budgets to audited television data.
 
 That asymmetry is beginning to crack. **Kantar IBOPE Media’s Cross-Media system** the the lingua franca for linear TV across Latin America now plugs directly into streaming environments such as [Twitch](https://anda.cl/revista/chile-contara-con-una-de-las-mediciones-de-tv-mas-avanzadas-de-la-region-y-del-mundo/). In effect, the same meter that decides prime-time rates in Santiago or São Paulo can now see you speed-running _Elden Ring_ or debating patch notes with chat.
