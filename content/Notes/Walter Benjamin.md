@@ -100,7 +100,7 @@ His conceptualization of aura as the "quality of presence" inherently vulnerable
 
 > Since the historical testimony rests on the authenticity, the former, too, is jeopardized by reproduction when substantive duration ceases to matter. And what is really jeopardized when the historical testimony is affected is the authority of the object.
 
-Benjamin’s foresight on historical testimony's reliance on authenticity remains incisive. Today, the erosion of physical authenticity and the proliferation of digitally mediated content render historical testimony unstable and vulnerable to reinterpretation. This vulnerability is notably evident through contemporary phenomena such as UCG, deep fakes and LLM-generated content, which further complicate and obscure historical narratives.
+Benjamin’s foresight on historical testimony's reliance on authenticity remains incisive. Today, the erosion of physical authenticity and the proliferation of digitally mediated content render historical testimony unstable and vulnerable to reinterpretation. This vulnerability is notably evident through contemporary phenomena such as UGC, deep fakes and LLM-generated content, which further complicate and obscure historical narratives.
     
 > The technique of reproduction detaches the reproduced object from the domain of tradition. By making many reproductions it substitutes a plurality of copies for a unique existence. And in permitting the reproduction to meet the beholder or listener in his own particular situation, it reactivates the object reproduced. These two processes lead to a tremendous shattering of tradition which is the obverse of the contemporary crisis and renewal of mankind. Both processes are intimately connected with the contemporary mass movements. 
     
