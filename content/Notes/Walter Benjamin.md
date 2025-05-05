@@ -136,7 +136,7 @@ He argues that his own historical moment offers more favorable conditions for su
 
 > **And if changes in the medium of contemporary perception can be comprehended as decay of the aura, it is possible to show its social causes.**
 
-He sets his task: to analyze how the _decay of the aura_—the loss of uniqueness and distance in perception—stems from identifiable, modern social developments.
+He then sets his task: to analyze how the _decay of the aura_ stems from identifiable, modern social developments.
 
 > **The concept of aura which was proposed above with reference to historical objects may usefully be illustrated with reference to the aura of natural ones.
 > We define the aura of the latter as the unique phenomenon of a distance, however close it may be.
