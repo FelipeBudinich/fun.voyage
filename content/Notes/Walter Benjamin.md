@@ -130,7 +130,7 @@ Riegl and Wickhoff, scholars of the Viennese school, were among the first to rec
 > **They did not attempt—and, perhaps, saw no way—to show the social transformations expressed by these changes of perception.
 > The conditions for an analogous insight are more favorable in the present.**
 
-Here, Benjamin identifies a critical gap: the earlier scholars lacked a theory of causality. Without a materialist framework, they were unable—or perhaps unwilling—to link perceptual changes to broader social and economic transformations.
+Here, Benjamin identifies a critical gap: the earlier scholars lacked a theory of causality. Without a materialist framework, they were unable to link perceptual changes to broader social and economic transformations.
 
 He argues that his own historical moment offers more favorable conditions for such an insight. There may be a touch of overconfidence in this claim; after all, interpreting the perceptual logic of one’s own time is naturally easier when the art is being produced contemporaneously. It’s also worth noting a tension in Benjamin’s position: if perception is historically determined, as he insists, then fully grasping the perceptual framework of a distant past would seemingly require occupying that same historical standpoint. While this author does not accept that premise, it does expose a potential contradiction in Benjamin’s reasoning.
 
