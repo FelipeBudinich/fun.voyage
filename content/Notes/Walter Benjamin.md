@@ -230,6 +230,52 @@ Benjamin then takes a radical turn, and presents his prognosis for the future of
 
 Yet in this author’s view, reality diverged from Benjamin’s vision. Within the art world, art became political in content, but remained embedded in the cultic structures of scarcity, institutional gatekeeping, and elite circulation. Meanwhile, mass art continued to pursue emotional resonance, and for some within social media ecosystems it began to function as _sign value_: content consumed not only for its affective qualities, but for the social, cultural, or ideological affiliations it signals. In this way, both forms of art became political, but in exclusionary ways—not in the mobilizing, revolutionary sense Benjamin envisioned and hoped for. The politics that emerged are symbolic, fragmented, and performative, shaped more by alignment than by obedience.
 
+### Chapter 5 notes
+
+This is Benjamin’s clearest articulation of the polarity between _cult value_ and _exhibition value_ in art, and suggests that the origins of artistic production lie not in visibility but in ritual function. This emphasis may be partially explained by the linguistic and philosophical weight of the word _Kunst_ in German. Unlike the English “art,” which traces its roots to the Proto-Indo-European _ar-_ (“to fit together, assemble”), _Kunst_ derives from _ǵenə-_ (“to know, produce”), linking it to knowledge, capacity, and practiced skill. More importantly, this lineage frames _Kunst_ as something inward-facing, grounded in expertise and tradition—something one _knows_, rather than something one necessarily _shows_. Benjamin, writing in German, inherits a term already saturated with associations of inherited knowledge and cultural transmission. It is perhaps no surprise, then, that he roots the genesis of _Kunstwerke_ in the sacred: objects meant for gods, spirits, or priests, hidden from public view and valued for their ritual presence rather than their aesthetic display. This sets the stage for the chapter’s perspective—that the modern shift toward exhibition, accelerated by mechanical reproduction, marks not just a change in degree, but a transformation in the very nature of art | kunst.
+
+> **Works of art are received and valued on different planes. Two polar types stand out; with one, the accent is on the cult value; with the other, on the exhibition value of the work.**
+
+These are not merely two functions of art, but opposing forces that define the work's role in culture. Cult value is about presence, reverence, and ritual; exhibition value is about display, visibility, and circulation. In a sense, these values correspond to older and newer regimes of attention; closed systems of belief versus open systems of spectatorship.
+
+> **Artistic production begins with ceremonial objects destined to serve in a cult. One may assume that what mattered was their existence, not their being on view. The elk portrayed by the man of the Stone Age on the walls of his cave was an instrument of magic. He did expose it to his fellow men, but in the main it was meant for the spirits.**
+
+Here, Benjamin reaffirms his thesis that the earliest function of art was not aesthetic but _operative_. The value of the image lay in its efficacy within a ritual or magical system. Visibility, if present, was incidental. In other words, art was not for looking—it was for doing, for enacting power. This aligns with the etymology of _Kunst_ as rooted in _knowledge and capacity_, not display.
+
+However, recent research[^8] suggests that cave paintings may have served communicative purposes; while they remain _operative_, their function was to be seen. Patterns of dots, lines, and other symbols found alongside animal depictions in European caves have been interpreted as a form of proto-writing, potentially conveying information about animal behavior, seasonal cycles, or migratory patterns. This implies that early humans may have used cave art not for ritual, but as a means of recording and transmitting practical knowledge. And if I may apply Occam’s razor: cave paintings were not “hidden” for sacred reasons, but protected from the elements—after all, we can still see them.
+
+Therefore, while Benjamin emphasizes the ritualistic origins of art, it is equally plausible that early artworks functioned first and foremost as tools for communication.
+
+> **Today the cult value would seem to demand that the work of art remain hidden. Certain statues of gods are accessible only to the priest in the cella; certain Madonnas remain covered nearly all year round; certain sculptures on medieval cathedrals are invisible to the spectator on ground level.**
+
+Even if we set aside the debated origins of cave paintings, Benjamin is correct in observing that in later religious contexts, cult value asserts itself through controlled access managed by specific individuals in positions of authority.
+
+> **With the emancipation of the various art practices from ritual go increasing opportunities for the exhibition of their products. It is easier to exhibit a portrait bust that can be sent here and there than to exhibit the statue of a divinity that has its fixed place in the interior of a temple.**
+
+Benjamin links the shift away from cult value to the emergence of portable, distributable, viewable objects. This is a technological as well as a cultural shift. The movement from embedded to mobile, from fixed to fluid, corresponds with a broader historical transformation: art exits the temple and enters circulation.
+
+> **The same holds for the painting as against the mosaic or fresco that preceded it. And even though the public presentability of a mass originally may have been just as great as that of a symphony, the latter originated at the moment when its public presentability promised to surpass that of the mass.**
+
+Painting, unlike fresco or mosaic, can be moved, sold, and displayed in multiple contexts. The same logic applies to music: the symphony emerges not just as a new form, but as a more _presentable_ one—one suited to performance and repetition and mass emotional impact that can surpass religious fervor.
+
+> **With the different methods of technical reproduction of a work of art, its fitness for exhibition increased to such an extent that the quantitative shift between its two poles turned into a qualitative transformation of its nature.**
+
+This is a key line. The increasing _quantity_ of exposure leads to a _qualitative_ change in what art is. The tension between cult and exhibition value isn't just a scale, it’s a threshold. Once enough works become viewable, reproducible, and circulated, the _very function_ of art changes. This is Benjamin’s logic of historical materialism applied to aesthetics: **form follows condition**.
+
+> **This is comparable to the situation of the work of art in prehistoric times when, by the absolute emphasis on its cult value, it was, first and foremost, an instrument of magic. Only later did it come to be recognized as a work of art.**
+
+Just as prehistoric objects were not originally seen as “art” but only retrospectively classified as such, Benjamin argues that future audiences may look back at modern “art” and recognize its function as something else entirely. The _artistic_ function may be _incidental_ to its actual social utility.
+
+> **In the same way today, by the absolute emphasis on its exhibition value the work of art becomes a creation with entirely new functions, among which the one we are conscious of, the artistic function, later may be recognized as incidental.**
+
+This is the chapter’s most destabilizing claim: that what we currently label as “art” may not, in retrospect, be art at all in any essential sense. Its artistic dimension is a side effect of deeper forces; visibility, reproducibility, symbolic labor, social distribution.
+
+> **This much is certain: today photography and the film are the most serviceable exemplifications of this new function.**
+
+Benjamin closes stating that photography and film are not merely new media, but harbingers of a shift in art’s ontology. They embody exhibition value to such an extent that ritual vanishes entirely. Their existence depends on reproducibility, and their meaning is produced through circulation.
+
+And this is hard to argue against.
+
 [^1]: From a contemporary vantage point, however, this appeal to "early capitalism" can feel naïve or even circular, especially when viewed against the disillusionment surrounding “late-stage capitalism,” the political collapse of the Soviet Union, and the economic pivot from Maoism to Dengism in China.
 
 [^2]: The claim that capitalism would not only intensify exploitation but also ultimately create the conditions for its own abolition now reads more as metaphysical faith than material analysis. While exploitation persists in various forms, the broader trend has been a dramatic rise in global living standards. In China, following the 1978 reforms, Dengism abandoned the Marxist emphasis on class struggle as the motor of history, recasting development itself as the central task of socialism. “Development is the hard truth” (发展才是硬道理) became the guiding slogan of this shift.
@@ -243,4 +289,6 @@ Yet in this author’s view, reality diverged from Benjamin’s vision. Within t
 [^6]: And of course a statistical lens can also distort perception: a contemporary example of this kind of perceptual estrangement is content curation on social media platforms. Recommendation systems can be statistically optimized for engagement rather than truth, creating feedback loops that reinforce narrow worldviews. A similar dynamic can be observed in the humanities, where institutional incentives push academics to publish frequently and cite one another in status-driven loops that detach scholarly work from material realities. But in both cases, whether it is social media disinformation or sociological research that informs public policy, the adjustment to a mediated reality is not unlimited. Eventually, it breaks against the constraints of biology, physics, and consequence.
 
 [^7]: This idea is thoroughly analyzed in George Dickie’s Institutional Theory of Art proposes that a work of art is defined by its acceptance within the framework of the “artworld” the network of institutions, curators, critics, and conventions that collectively confer art status. See: George Dickie, _Art and the Aesthetic: An Institutional Analysis_ (Ithaca: Cornell University Press, 1974).
+
+[^8]: Research by Bennett Bacon et al. (2023) identified recurring symbols; dots, lines, and Y-shaped signsadjacent to animal images in European cave sites such as Lascaux and Niaux. These marks are hypothesized to encode information about mating and birthing seasons, making them among the earliest known forms of data notation. See: Bacon, B., et al. “An Upper Palaeolithic Proto-Writing System and Phenological Calendar.” _Cambridge Archaeological Journal_ (2023).
 
