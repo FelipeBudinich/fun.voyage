@@ -8,11 +8,9 @@ tags:
 ---
 
 
-# Pope Leo XIV (Robert Francis Prevost) – Biography and Background
-
 _note: this was sourced using Chat GPT + 03 + Deep Research_
 
-**Introduction:** Pope **Leo XIV**, born **Robert Francis Prevost** in 1955, is a Peruvian-American prelate whose diverse ministry and leadership within the Catholic Church culminated in his election as [Pope on May 8, 2025](https://en.wikipedia.org/wiki/Robert_Francis_Prevost#:~:text=Pope%20Leo%C2%A0XIV,126%20Leo%20XIV%2C%20becoming%20the). He is the first pope born in North America, bringing a unique blend of American background and Latin American missionary experience to the papacy[blend of American background and Latin American missionary experience to the papacy](https://en.wikipedia.org/wiki/Robert_Francis_Prevost#:~:text=for%20Latin%20America%20%20since,Pope%20born%20in%20%20127). Prevost’s career has spanned roles as an Augustinian friar, missionary priest, bishop, and Vatican official, with each step laying groundwork for his rise to the highest office of the Church. The following report details his early life, education, religious career, key leadership roles, theological outlook, and the milestones that led to his election as Pope Leo XIV, along with his notable contributions and controversies.
+Pope **Leo XIV**, born **Robert Francis Prevost** in 1955, is a Peruvian-American prelate whose diverse ministry and leadership within the Catholic Church culminated in his election as [Pope on May 8, 2025](https://en.wikipedia.org/wiki/Robert_Francis_Prevost#:~:text=Pope%20Leo%C2%A0XIV,126%20Leo%20XIV%2C%20becoming%20the). He is the first pope born in North America, bringing a unique blend of American background and Latin American missionary experience to the papacy[blend of American background and Latin American missionary experience to the papacy](https://en.wikipedia.org/wiki/Robert_Francis_Prevost#:~:text=for%20Latin%20America%20%20since,Pope%20born%20in%20%20127). Prevost’s career has spanned roles as an Augustinian friar, missionary priest, bishop, and Vatican official, with each step laying groundwork for his rise to the highest office of the Church. The following report details his early life, education, religious career, key leadership roles, theological outlook, and the milestones that led to his election as Pope Leo XIV, along with his notable contributions and controversies.
 
 ## Early Life and Education
 
