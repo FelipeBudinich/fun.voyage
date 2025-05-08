@@ -256,7 +256,7 @@ Benjamin links the shift away from cult value to the emergence of portable, dist
 
 > **The same holds for the painting as against the mosaic or fresco that preceded it. And even though the public presentability of a mass originally may have been just as great as that of a symphony, the latter originated at the moment when its public presentability promised to surpass that of the mass.**
 
-Painting, unlike fresco or mosaic, can be moved, sold, and displayed in multiple contexts. The same logic applies to music: the symphony emerges not just as a new form, but as a more _presentable_ one—one suited to performance and repetition and mass emotional impact that can surpass religious fervor.
+Painting, unlike fresco or mosaic, can be moved, sold, and displayed in multiple contexts. The same logic applies to music: the symphony emerges not just as a new form, but as a more _presentable_ one—one suited to performance and repetition and mass emotional impact that can surpass religious fervor within the confines of a church.
 
 > **With the different methods of technical reproduction of a work of art, its fitness for exhibition increased to such an extent that the quantitative shift between its two poles turned into a qualitative transformation of its nature.**
 
