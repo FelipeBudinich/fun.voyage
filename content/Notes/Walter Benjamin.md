@@ -268,7 +268,7 @@ Just as prehistoric objects were not originally seen as “art” but only retro
 
 > **In the same way today, by the absolute emphasis on its exhibition value the work of art becomes a creation with entirely new functions, among which the one we are conscious of, the artistic function, later may be recognized as incidental.**
 
-This is the chapter’s most destabilizing claim: that what we currently label as “art” may not, in retrospect, be art at all in any essential sense. Its artistic dimension is a side effect of deeper forces; visibility, reproducibility, symbolic labor, social distribution.
+This is the chapter’s most destabilizing claim: that what we currently label as “art” may not, in retrospect, be art at all in any essential sense. Its artistic dimension is a side effect of deeper forces; visibility, reproducibility, distribution and the market.
 
 > **This much is certain: today photography and the film are the most serviceable exemplifications of this new function.**
 
