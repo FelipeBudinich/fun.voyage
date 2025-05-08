@@ -188,41 +188,47 @@ Building on this, Benjamin introduces a particular claim: that the original func
 
 This raises a tension in Benjamin’s framing. By identifying these early ritual objects as “art,” he retroactively applies a post-Renaissance concept to cultures that may not have recognized such a category. Did the Greeks understand these objects as art, or simply as sacred instruments? Benjamin’s argument depends on a historical continuity that may itself be shaped by modern assumptions.
 
-> **It is significant that the existence of the work of art with reference to its aura is never entirely separated from its ritual function. In other words, the unique value of the “authentic” work of art has its basis in ritual, the location of its original use value.**
+> **It is significant that the existence of the work of art with reference to its aura is never entirely separated from its ritual function. In other words, the unique value of the “authentic” work of art has its basis in ritual, the location of its original use value.
+> This ritualistic basis, however remote, is still recognizable as secularized ritual even in the most profane forms of the cult of beauty.
+> The secular cult of beauty, developed during the Renaissance and prevailing for three centuries, clearly showed that ritualistic basis in its decline and the first deep crisis which befell it.**
 
-Aura, according to Benjamin, is tied to ritual use, not aesthetic contemplation. “Authenticity” derives from a piece’s place in a liturgical or social ceremony—its authority is functional and historical, not visual or emotional.
+Aura, according to Benjamin, is tied to ritual use, not aesthetic contemplation. “Authenticity” derives from a piece’s place in a liturgical or social ceremony. Its authority was functional and historical, not visual or emotional.
 
-> **This ritualistic basis, however remote, is still recognizable as secularized ritual even in the most profane forms of the cult of beauty.**
+Even after religion fades, the structure of ritual persists. The “cult of beauty” in the modern artworld—museums, galleries, critics, and collectors—is a kind of secularized priesthood. Aura lingers not as divine presence, but as connoisseurial reverence.
 
-Even after religion fades, the structure of ritual persists. The “cult of beauty” in modern art—museums, galleries, critics, and collectors—is a kind of secularized priesthood. Aura lingers not as divine presence, but as connoisseurial reverence.
+Benjamin points to a historical rupture: the Renaissance initiated a secular ritual—aesthetic contemplation for its own sake. But this framing invites further scrutiny. Was the Renaissance truly the birth of a disinterested aesthetic culture, or was it the moment when the powerful began to inscribe themselves into art—through patronage, influence, and even literal cameos? Rather than a clean shift from ritual to beauty, it may have been a transfer of ritual authority to a new elite, one that used beauty to project political and personal power under the guise of taste.
 
-> **The secular cult of beauty, developed during the Renaissance and prevailing for three centuries, clearly showed that ritualistic basis in its decline and the first deep crisis which befell it.**
-
-Benjamin points to a historical rupture: the Renaissance initiated a secular ritual—aesthetic contemplation for its own sake. But even this secular model eventually faltered, setting the stage for a new regime.
+But this raises a complication. Beauty, as a guiding value in art, has largely been abandoned within elite cultural institutions, even as the ritual framework persists. The “cult” remains, but it now orbits ideas like transgression, irony and institutional critique. Meanwhile, what is often labeled—sometimes dismissively—as “the masses” continue to seek art that is beautiful, emotionally resonant, and universal. If aura once depended on ritual, and ritual once elevated beauty, then what exactly is being preserved in the post-beauty artworld?
 
 > **With the advent of the first truly revolutionary means of reproduction, photography, simultaneously with the rise of socialism, art sensed the approaching crisis which has become evident a century later.**
 
 The twin births of photography and socialism signaled a dual crisis: the undermining of the old ritual/aura model, and the emergence of new, mass-based forms of culture and politics. Photography democratizes visual access; socialism questions cultural ownership and hierarchy.
 
-> **At the time, art reacted with the doctrine of _l’art pour l’art_, that is, with a theology of art. This gave rise to what might be called a negative theology in the form of the idea of ‘pure’ art, which not only denied any social function of art but also any categorizing by subject matter. (In poetry, Mallarmé was the first to take this position.)**
+> **At the time, art reacted with the doctrine of _l’art pour l’art_, that is, with a theology of art. This gave rise to what might be called a negative theology in the form of the idea of ‘pure’ art, which not only denied any social function of art but also any categorizing by subject matter. (In poetry, Mallarmé was the first to take this position.)
+> An analysis of art in the age of mechanical reproduction must do justice to these relationships, for they lead us to an all-important insight: for the first time in world history, mechanical reproduction emancipates the work of art from its parasitical dependence on ritual.**
 
-Art for art’s sake is, to Benjamin, a reactionary theology—a desperate effort to preserve aura in an age that threatens to dissolve it. In denying social function and subject matter, “pure art” clings to a transcendent role for art while cutting it off from real historical currents.
+Art for art’s sake is, to Benjamin, a reactionary turn—a defensive theology meant to preserve aura in an era that threatens to dissolve it. By rejecting both social function and subject matter, “pure art” elevates itself to a transcendent, self-contained realm, even as it detaches from historical and political currents.
 
-> **An analysis of art in the age of mechanical reproduction must do justice to these relationships, for they lead us to an all-important insight: for the first time in world history, mechanical reproduction emancipates the work of art from its parasitical dependence on ritual.**
+This sets the stage for Benjamin’s central claim: mechanical reproduction, especially through photography and film, severs the long-standing bond between art and ritual. Art is no longer tethered to the temple, the altar, or the salon. It begins to circulate outside traditional contexts, freed from its cultic origins.
 
-This is Benjamin’s thesis: mechanical reproduction (especially film and photography) breaks the ancient bond between art and ritual. Art no longer needs the temple, altar, or salon to justify its existence.
+But in this author’s view, what was truly excised from the “cult” was not ritual itself, but the combined presence of aura and beauty. What emerged instead was the art object as an ultra–Veblen good: valued not for use or contemplation, but as a symbol of exclusion. These works are desirable precisely because they are inaccessible—tokens of what cannot be had, even more than what can be seen. The aura may have decayed in one sense, but in another, it was refashioned into scarcity-as-status.
 
-> **To an ever greater degree the work of art reproduced becomes the work of art designed for reproducibility.**
+This transformation becomes especially visible in the rise of conceptual and post-conceptual art, particularly from the 1970s onward, where materiality, beauty, and even craftsmanship were deliberately devalued. What mattered was not the image or the object itself, but the context, the certificate, the idea. In this environment, the gallery, the collector, and the institutional label became the new ritual apparatus—preserving aura not through presence, but through controlled scarcity and coded legitimacy. The art world responded in kind: as works became less visibly “artisanal,” their value grew increasingly speculative, anchored in social capital and institutional endorsement.
 
-Rather than artworks being copied post hoc, many modern works are conceived with reproduction in mind: prints, films, albums, and now even memes are made to be multiplied. The original is not sacred—it is often irrelevant.
+> **To an ever greater degree the work of art reproduced becomes the work of art designed for reproducibility.
+> From a photographic negative, for example, one can make any number of prints; to ask for the ‘authentic’ print makes no sense.**
 
-> **From a photographic negative, for example, one can make any number of prints; to ask for the ‘authentic’ print makes no sense.**
+Rather than artworks being copied post hoc, many modern works are conceived with reproduction in mind: prints, films, albums, and now even memes are made to be multiplied. The original is not sacred—there is none.
 
 This obliterates the concept of authenticity. Unlike a painting, a photo negative has no “original” image. All prints are equal—or at least equally reproducible.
 
+In this author's opinion, mechanical reproduction did not destroy the cultic function of art; it divided it. While Benjamin argues that the loss of authenticity reverses the function of art from ritual to politics, what also emerges is a split in the economy of aura itself. On one side, the art world cultivates scarcity through opaque, often non-beautiful works accessible primarily to insiders. On the other, mass culture delivers endlessly reproducible, emotionally resonant, and aesthetically pleasing content designed for broad consumption. Aura was not eliminated—it was redistributed, repackaged through divergent systems of value and access.
+
 > **But the instant the criterion of authenticity ceases to be applicable to artistic production, the total function of art is reversed. Instead of being based on ritual, it begins to be based on another practice—politics.**
 
-This is the radical turn: when ritual fades, politics rushes in. Art becomes a tool not for transcendence, but for influence. Not for worship, but for struggle. Mechanical reproduction enables art to be wielded—not just revered.
+Benjamin then takes a radical turn, and presents his prognosis for the future of art: when ritual fades, politics rushes in. Art becomes a tool not for transcendence, but for influence. Not for worship, but for struggle. Mechanical reproduction enables art to be wielded—not just revered.
+
+Yet in this author’s view, reality diverged from Benjamin’s vision. Within the art world, art became political in content but it remained embedded in the cultic structures of scarcity, institutional gatekeeping, and elite circulation. Meanwhile, mass art, aimed for emotional resonance then evolved under the pressures of social media into a landscape of _sign value_—content consumed **both** for its intrinsic emotional qualities and for the social, cultural, or ideological affiliations it signals. In that sense, both forms of art became political, but not in the mobilizing, revolutionary way Benjamin envisioned or hoped for.
 
 [^1]: From a contemporary vantage point, however, this appeal to "early capitalism" can feel naïve or even circular, especially when viewed against the disillusionment surrounding “late-stage capitalism,” the political collapse of the Soviet Union, and the economic pivot from Maoism to Dengism in China.
 
