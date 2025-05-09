@@ -276,6 +276,11 @@ Benjamin closes stating that photography and film are not merely new media, but 
 
 And this is hard to argue against.
 
+### Chapter 6 notes
+
+In this section, Benjamin argues that the shift in art's ontology manifests as a  _withdrawal_: first of cult value, then of presence, then of interpretive freedom. But it is also about a _reorganization_ of meaning: how images, once objects of contemplation, become objects of persuasion and once they do they start to speak in sequence, in context. This is the beginning of art being operationalized as _discourse_.
+
+
 [^1]: From a contemporary vantage point, however, this appeal to "early capitalism" can feel naïve or even circular, especially when viewed against the disillusionment surrounding “late-stage capitalism,” the political collapse of the Soviet Union, and the economic pivot from Maoism to Dengism in China.
 
 [^2]: The claim that capitalism would not only intensify exploitation but also ultimately create the conditions for its own abolition now reads more as metaphysical faith than material analysis. While exploitation persists in various forms, the broader trend has been a dramatic rise in global living standards. In China, following the 1978 reforms, Dengism abandoned the Marxist emphasis on class struggle as the motor of history, recasting development itself as the central task of socialism. “Development is the hard truth” (发展才是硬道理) became the guiding slogan of this shift.
