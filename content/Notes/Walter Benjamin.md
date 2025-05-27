@@ -280,6 +280,12 @@ And this is hard to argue against.
 
 In this section, Benjamin argues that the shift in art's ontology manifests as a  _withdrawal_: first of cult value, then of presence, then of interpretive freedom. But it is also about a _reorganization_ of meaning: how images, once objects of contemplation, become objects of persuasion and once they do they start to speak in sequence, in context. This is the beginning of art being operationalized as _discourse_.
 
+> **In photography, exhibition value begins to displace cult value all along the line. But cult value does not give way without resistance. It retires into an ultimate retrenchment: the human countenance. It is no accident that the portrait was the focal point of early photography.
+> The cult of remembrance of loved ones, absent or dead, offers a last refuge for the cult value of the picture. For the last time the aura emanates from the early photographs in the fleeting expression of a human face. This is what constitutes their melancholy, incomparable beauty.**
+
+Benjamin opens by describing a transitional moment: in the age of photography, cult value retreats into one last bastion—the human face. Even as reproducibility takes over, portraiture preserves something like ritual presence. The photograph, especially in its early forms, does not _just_ show a person—it attempts to preserve something irreducible about their _being_.
+
+Early photography, especially portraiture, still bore traces of it—an attempt to hold onto presence, to ritualize memory. The aura here is not derived from ritual _use_, but from emotional _relation_. It’s worth noting how Benjamin’s own language begins to echo the aesthetic register he normally critiques—“melancholy,” “incomparable beauty”—as though even he cannot resist the aura of the human image.
 
 [^1]: From a contemporary vantage point, however, this appeal to "early capitalism" can feel naïve or even circular, especially when viewed against the disillusionment surrounding “late-stage capitalism,” the political collapse of the Soviet Union, and the economic pivot from Maoism to Dengism in China.
 
