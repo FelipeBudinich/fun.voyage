@@ -73,11 +73,11 @@ He dejado estas páginas sin firma dentro del Annali di Forlì.
   
 Que otro descubra a quién pertenecen, porque yo ya no tengo la certeza.
 
-
+---
 
 ### Notas del autor hablando porque ama su voz
 
-Este cuento es, abiertamente, una reescritura de Borges. No una imitación, sino una forma de conversación postergada: un eco que vuelve desde otro siglo, cargado de nombres, fechas y silencios. Non vuelvo sin vencer toma como punto de partida el tono y la estructura de La otra muerte, y la dobla hacia mis propias obsesiones: el Renacimiento como umbral entre mito y modernidad (háganse un favor y lean Bomarzo de Manuel Mujica Láinez), la fragilidad de los calendarios, el error astronómico como metáfora moral.
+Este cuento es, abiertamente, una reescritura de Borges. No una imitación, sino una forma de conversación postergada: un eco que vuelve desde otro siglo, cargado de nombres, fechas y silencios. *Non vuelvo sin vencer* toma como punto de partida el tono y la estructura de *La otra muerte*, y la dobla hacia mis propias obsesiones: el Renacimiento como umbral entre mito y modernidad (háganse un favor y lean *Bomarzo* de Manuel Mujica Láinez), la fragilidad de los calendarios, el error astronómico como metáfora moral.
 
 La historia transcurre en el marco previo a una transición silenciosa: la del calendario juliano al gregoriano, que acumuló más de once minutos de error por año durante siglos, desplazando lentamente los equinoccios y las fiestas móviles. Esa imprecisión aparentemente menor es, para mí, un símbolo poderoso del desfase inevitable entre lo que vivimos, lo que registramos y lo que contamos.
 
