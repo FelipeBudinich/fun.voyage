@@ -67,5 +67,5 @@ Tampoco creo que Giovanni lo hiciera.
   
 He dejado estas páginas sin firma dentro del *Annali di Forlì.*  
   
-Que otro descubra a quién pertenecen, porque yo ya no tengo la certeza.
+Que otro descubra a quién pertenecen, yo ya no tengo la certeza.
 
