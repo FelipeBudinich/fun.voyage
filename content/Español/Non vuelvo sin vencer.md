@@ -30,7 +30,7 @@ Clarice Strozzi, hija de Piero el Desafortunado, lo llamó alguna vez indigno de
   
 Desde entonces vivió con vergüenza, bajo un nombre falso.
 
-Me repitió esa y otras historias muchas veces, durante las largas y adormecidas tardes de 1529.  
+Me repitió esa y otras historias muchas veces, durante las largas y adormecidas tardes de 1529. 
   
 Su ausencia fue abrupta. Ninguno de los que lo conocían supo decirme si se había marchado, enfermado o simplemente desaparecido.
 
@@ -42,30 +42,30 @@ Dudé si escribir su historia… quizá para fijarla en un calendario que aún o
 
 Visité Forlì. Hablé con quienes lo habían conocido. Pero la historia que contaban no era la que yo recordaba.  
   
-Me entregaron los Annali di Forlì de Andrea Bernardi, apodado Novacula por la navaja de su oficio.
+Me entregaron los *Annali di Forlì* de Andrea Bernardi, apodado Novacula por la navaja de su oficio.
 
 “*1526 – Giovanni de’ Medici, muerto en Governolo.*”
 
-Afuera, quienes aún evocan la magistratura de Gaio Livio Salinatore decían que, en la noche del 25 de noviembre de 1526, Giovanni fue alcanzado por un disparo de falconete que le destrozó la pierna por encima de la rodilla.
+Quienes aún evocan la magistratura de Gaio Livio Salinatore decían que, en la noche del 25 de noviembre de 1526, Giovanni fue alcanzado por un disparo de falconete que le destrozó la pierna por encima de la rodilla.
 
 El cirujano Abramo, que ya lo había atendido antes, le amputó la extremidad. Para realizar la operación, pidió diez hombres que sujetaran al condottiero herido.
 
 Pietro Aretino, testigo de los hechos, escribió:
 
 "*–Ni veinte hombres podrían retenerme — dijo Giovanni, sonriendo.*  
-*Tomó una vela con la mano para iluminar su propia carne.*
+*Acto seguido tomó una vela con la mano para iluminar su propia carne.*
 
 *Huí, tapándome los oídos. Cuando regresé, me dijo:*
 
 *–Estoy curado.*
 
-*Pero Giovanni murió cinco días después. Dijeron que fue de sepsis.*"
+*Pero Giovanni murió cinco días después. Dicen que fue de sepsis.*"
 
 No creo que me hayan mentido.  
   
 Tampoco creo que Giovanni lo hiciera.  
   
-He dejado estas páginas sin firma dentro del Annali di Forlì.  
+He dejado estas páginas sin firma dentro del *Annali di Forlì.*  
   
 Que otro descubra a quién pertenecen, porque yo ya no tengo la certeza.
 
