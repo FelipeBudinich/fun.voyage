@@ -44,7 +44,7 @@ Visité Forlì. Hablé con quienes lo habían conocido. Pero la historia que con
   
 Me entregaron los *Annali di Forlì* de Andrea Bernardi, apodado Novacula por la navaja de su oficio.
 
-“*1526 – Giovanni de’ Medici, muerto en Governolo.*”
+“*1526 - Giovanni de’ Medici, muerto en Governolo.*”
 
 Quienes aún evocan la magistratura de Gaio Livio Salinatore decían que, en la noche del 25 de noviembre de 1526, Giovanni fue alcanzado por un disparo de falconete que le destrozó la pierna por encima de la rodilla.
 
@@ -52,7 +52,7 @@ El cirujano Abramo, que ya lo había atendido antes, le amputó la extremidad. P
 
 Pietro Aretino, testigo de los hechos, escribió:
 
-"*–Ni veinte hombres podrían contenerme — dijo Giovanni, sonriendo.*  
+"*–Ni veinte hombres podrían contenerme —dijo Giovanni, sonriendo.*  
 *Acto seguido tomó una vela con la mano para iluminar su propia carne.*
 
 *Huí, tapándome los oídos. Cuando regresé, me dijo:*
