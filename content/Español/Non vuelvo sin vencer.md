@@ -26,7 +26,7 @@ Esas palabras, supe después, no figuran en más de una crónica.
 
 Giovanni también me dijo que había mostrado cobardía en aquella batalla. Rompió filas, arrojó su arma y huyó.  
   
-Clarice Strozzi, hija de Piero el Desafortunado, lo llamó alguna vez indigno del nombre Medici  (le puso *il Moro*, con desprecio).  
+Clarice Strozzi, hija de Piero el Desafortunado, lo llamó alguna vez indigno del nombre Medici  (lo bautizó *il Moro*, con desprecio).  
   
 Desde entonces vivió con vergüenza, bajo un nombre falso.
 
@@ -52,7 +52,7 @@ El cirujano Abramo, que ya lo había atendido antes, le amputó la extremidad. P
 
 Pietro Aretino, testigo de los hechos, escribió:
 
-"*–Ni veinte hombres podrían retenerme — dijo Giovanni, sonriendo.*  
+"*–Ni veinte hombres podrían contenerme — dijo Giovanni, sonriendo.*  
 *Acto seguido tomó una vela con la mano para iluminar su propia carne.*
 
 *Huí, tapándome los oídos. Cuando regresé, me dijo:*
