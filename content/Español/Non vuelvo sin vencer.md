@@ -2,7 +2,7 @@
 title: Non vuelvo sin vencer
 tags:
   - Storytelling
-description: Este cuento es, abiertamente, una reescritura de Borges. No una imitación, sino una forma de conversación postergada.
+description: Este cuento es, abiertamente, una reescritura de Borges.
 date: 2025-05-26
 ---
 
@@ -46,7 +46,7 @@ Me entregaron los Annali di Forlì de Andrea Bernardi, apodado Novacula por la n
 
 “*1526 – Giovanni de’ Medici, muerto en Governolo.*”
 
-“*1537 – Giovanni de’ Medici, asesinado en Florencia la noche de Epifanía.*”
+“*1537 – Giovanni de’ Medici, asesinado en Florencia la noche de la Epifanía.*”
 
 Al pie, Bernardi había rubricado: “*Si ambedue son verdade, io non lo so; ognuno legga e giudichi.*”
 
@@ -56,10 +56,10 @@ El cirujano Abramo, que ya lo había atendido antes, le amputó la extremidad. P
 
 Pietro Aretino, testigo de los hechos, escribió:
 
-"*–Ni veinte hombres podrían sujetarme — dijo Giovanni, sonriendo.*  
-*Tomó una vela con la mano para iluminar su propia carne. Huí, tapándome los oídos.*
+"*–Ni veinte hombres podrían retenerme — dijo Giovanni, sonriendo.*  
+*Tomó una vela con la mano para iluminar su propia carne.*
 
-*Cuando regresé, me dijo:*
+*Huí, tapándome los oídos. Cuando regresé, me dijo:*
 
 *–Estoy curado.*
 
@@ -72,16 +72,4 @@ Tampoco creo que Giovanni lo hiciera.
 He dejado estas páginas sin firma dentro del Annali di Forlì.  
   
 Que otro descubra a quién pertenecen, porque yo ya no tengo la certeza.
-
----
-
-### Notas del autor hablando porque ama su voz
-
-Este cuento es, abiertamente, una reescritura de Borges. No una imitación, sino una forma de conversación postergada: un eco que vuelve desde otro siglo, cargado de nombres, fechas y silencios. *Non vuelvo sin vencer* toma como punto de partida el tono y la estructura de *La otra muerte*, y la dobla hacia mis propias obsesiones: el Renacimiento como umbral entre mito y modernidad (háganse un favor y lean *Bomarzo* de Manuel Mujica Láinez), la fragilidad de los calendarios, el error astronómico como metáfora moral.
-
-La historia transcurre en el marco previo a una transición silenciosa: la del calendario juliano al gregoriano, que acumuló más de once minutos de error por año durante siglos, desplazando lentamente los equinoccios y las fiestas móviles. Esa imprecisión aparentemente menor es, para mí, un símbolo poderoso del desfase inevitable entre lo que vivimos, lo que registramos y lo que contamos.
-
-La figura de Giovanni dalle Bande Nere me permitió condensar el culto a la gloria, la infamia y la posteridad que caracterizó a una época que aún creía en las hazañas individuales. En ese cruce entre crónica y confesión, entre leyenda y archivo, el narrador que podría ser yo, otro, el lector o todos se enfrenta a la pregunta sencilla y escurridiza: ¿Cómo sabemos quién fuimos?
-
-Todo relato, incluso uno de guerra, de sangre o de honor, es en el fondo un palimpsesto. Una historia escrita sobre otras historias, sobre otras versiones, sobre otros silencios y una cita de wikipedia. Escribí este cuento con la intención de explorar esa capa fantasmal donde la memoria, la historia y la ficción dejan de distinguirse. Y quizás también con la esperanza de que, al final, podamos aceptar que lo que recordamos de nosotros mismos no siempre coincide con lo que ocurrió.
 
