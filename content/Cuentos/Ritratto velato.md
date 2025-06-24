@@ -8,7 +8,6 @@ date: 2025-06-24
 
 El aire arde,  
 en su cuarto silente.
-
 —Roma duerme.
 
 En su mente agitada, corro buscando,
