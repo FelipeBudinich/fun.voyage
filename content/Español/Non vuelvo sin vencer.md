@@ -34,7 +34,7 @@ Me repitió esa y otras historias muchas veces, durante las largas y adormecidas
   
 Su ausencia fue abrupta. Ninguno de los que lo conocían supo decirme si se había marchado, enfermado o simplemente desaparecido.
 
-El 6 de enero de 1537, fue asesinado.  
+El 6 de enero de 1537, fue asesinado en Florencia durante la noche de la Epifanía.
   
 Tal vez él no quería ser recordado. Tal vez su historia, como tantas otras, debía morir con su voz.
 
@@ -42,13 +42,9 @@ Dudé si escribir su historia… quizá para fijarla en un calendario que aún o
 
 Visité Forlì. Hablé con quienes lo habían conocido. Pero la historia que contaban no era la que yo recordaba.  
   
-Me entregaron los Annali di Forlì de Andrea Bernardi, apodado Novacula por la navaja de su oficio. Entre la tinta leí dos notas casi contiguas:
+Me entregaron los Annali di Forlì de Andrea Bernardi, apodado Novacula por la navaja de su oficio.
 
 “*1526 – Giovanni de’ Medici, muerto en Governolo.*”
-
-“*1537 – Giovanni de’ Medici, asesinado en Florencia la noche de la Epifanía.*”
-
-Al pie, Bernardi había rubricado: “*Si ambedue son verdade, io non lo so; ognuno legga e giudichi.*”
 
 Afuera, quienes aún evocan la magistratura de Gaio Livio Salinatore decían que, en la noche del 25 de noviembre de 1526, Giovanni fue alcanzado por un disparo de falconete que le destrozó la pierna por encima de la rodilla.
 
@@ -63,7 +59,7 @@ Pietro Aretino, testigo de los hechos, escribió:
 
 *–Estoy curado.*
 
-*Pero Giovanni murió cinco días después, el 30 de noviembre de 1526. Dijeron que fue de sepsis.*"
+*Pero Giovanni murió cinco días después. Dijeron que fue de sepsis.*"
 
 No creo que me hayan mentido.  
   
