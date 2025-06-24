@@ -23,7 +23,7 @@ en las sombras de su ansiedad, pierdo el control.
 Cambio la forma, 
 con cincel sobre piedra, 
 tomo el don de la tierra, 
-Y lo transformo oculto.
+y lo transformo oculto.
 
 La penumbra cruel,
 en su pecho asciende.  
