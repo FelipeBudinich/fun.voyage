@@ -8,15 +8,16 @@ tags:
   - Javascript
   - ImpactJs
 ---
-[**Plugin version 1.0.0**](https://gist.github.com/FelipeBudinich/a9d9b1eab8a938785964e4641c8459e4)
+[**Plugin version 1.1.0**](https://gist.github.com/FelipeBudinich/a9d9b1eab8a938785964e4641c8459e4)
 
 ## Synopsis
 
 ```javascript
 var webfont = new ig.WebFont({
   file: 'fonts/MyFont.ttf',
-  size: '24px',
+  size: 24,
   family: 'MyFont',
+  weight: 'bold',
   color: '#ffffff'
 });
 
@@ -25,7 +26,7 @@ webfont.draw('Hello World', x, y, ig.WebFont.ALIGN.CENTER);
 
 ## Description
 
-An `ig.WebFont` allows you to dynamically load and render TrueType or OpenType fonts using the browser's FontFace API, fully integrated with ImpactJS's resource loader system.
+The `ig.WebFont` class allows you to load custom fonts via the `FontFace` API and use them in your ImpactJS canvas-based games. It supports customizable rendering options such as color, size, outline, alignment, and weight. The font is fully integrated with the ImpactJS loader, so it can be preloaded like other assets.
 
 ## Constructor
 
@@ -34,38 +35,44 @@ new ig.WebFont( descriptor )
 ```
 Creates and loads a web font for use in the canvas.
 
-#### Parameters:
+### Parameters
 
-- **descriptor** _(object)_:  it must contain:
+- **descriptor** _(object)_: Configuration object with the following fields:
+    
+    #### Required:
     
     - `file` _(string)_: Path to the font file.
         
-    - `family` _(string)_: Font family name as recognized by CSS.
+    - `family` _(string)_: Font family name.
         
-- optionally it may contain:
-  
-    - `size` _(string)_: Font size (e.g., `'24px'`). Defaults to `'20px'` if omitted.
     
-    - `color` _(string, optional)_: Color of the text. Defaults to `'#ffffff'`.
+    #### Optional:
+    
+    - `size` _(number)_: Font size in pixels. Defaults to `20`.
         
-    - `alpha` _(number, optional)_: Alpha from 0 (transparent) to 1 (opaque). Defaults to `1`.
+    - `weight` _(string)_: Font weight/style (e.g., `'normal'`, `'bold'`, `'700 italic'`). Defaults to `'normal'`.
         
-    - `letterSpacing` _(number, optional)_: Additional spacing between letters. Defaults to `0`.
+    - `color` _(string)_: Fill color for the text. Defaults to `'#ffffff'`.
         
-    - `lineSpacing` _(number, optional)_: Additional spacing between lines. Defaults to `0`.
+    - `alpha` _(number)_: Opacity from `0` (transparent) to `1` (opaque). Defaults to `1`.
         
-    - `outline` _(string, optional)_: Outline color. Defaults to `null` (no outline).
+    - `letterSpacing` _(number)_: Additional spacing between letters. Defaults to `0`.
         
-    - `outlineWidth` _(number, optional)_: Width of the outline. Defaults to `2`.
+    - `lineSpacing` _(number)_: Additional spacing between lines. Defaults to `0`.
+        
+    - `outline` _(string|null)_: Outline color. Defaults to `null` (no outline).
+        
+    - `outlineWidth` _(number)_: Outline thickness in pixels. Defaults to `2`.
         
 
 #### Example:
 
 ```javascript
 var font = new ig.WebFont({
-  file: 'fonts/ArcadeClassic.ttf', //required
-  size: '32px',
-  family: 'ArcadeClassic', //required
+  file: 'fonts/ArcadeClassic.ttf',
+  family: 'ArcadeClassic',
+  size: 32,
+  weight: 'bold italic',
   color: '#00ff00',
   outline: '#000000',
   outlineWidth: 3
@@ -76,7 +83,7 @@ var font = new ig.WebFont({
 
 ### .alpha
 
-Transparency level. Default is `1` (fully opaque).
+Transparency level. Ranges from `0` (fully transparent) to `1` (fully opaque). Default is `1`.
 
 ### .color
 
@@ -84,27 +91,43 @@ Text fill color. Default is `'#ffffff'`.
 
 ### .cssFont
 
-The computed CSS font string (e.g., `'20px MyFont'`).
+The computed CSS font string used for rendering (e.g., `'bold 20px MyFont'`).
 
 ### .family
 
-The font family name.
+The font family name used in the CSS font string.
 
 ### .letterSpacing
 
-Spacing between individual letters. Default is `0`.
+Additional spacing between individual letters in pixels. Default is `0`.
 
 ### .lineSpacing
 
-Spacing between lines of text. Default is `0`.
+Additional spacing between lines of text in pixels. Default is `0`.
 
 ### .outline
 
-Outline color. Default is `null` (no outline).
+Outline color used when rendering text. Default is `null` (no outline).
 
 ### .outlineWidth
 
-Outline thickness in pixels. Default is `2`.
+Thickness of the outline in pixels. Default is `2`.
+
+### .size
+
+Font size in pixels. Default is `20`.
+
+### .weight
+
+Font weight or style as a string (e.g., `'normal'`, `'bold'`, `'700 italic'`). Default is `'normal'`.
+
+### .loaded
+
+Indicates whether the font has successfully loaded. Boolean value. Default is `false`.
+
+### .failed
+
+Indicates whether the font failed to load. Boolean value. Default is `false`.
 
 ## Methods
 
@@ -180,4 +203,11 @@ Enumeration for alignment options:
 - `RIGHT`: Right-aligned.
     
 - `CENTER`: Center-aligned.
+
+## Integration Notes
+
+- Fonts are automatically queued into `ig.Loader` when the game is not yet ready.
     
+- Duplicate loads are de-duplicated via an internal cache (`ig.WebFont.faceCache`) to prevent redundant `FontFace` loads.
+    
+- Font weight parsing supports numeric weights and recognizes the `'italic'` modifier.
