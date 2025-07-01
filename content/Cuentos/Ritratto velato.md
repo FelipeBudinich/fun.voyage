@@ -38,7 +38,7 @@ robo el don de su aliento,
 y lo entierro oculto.  
 
 En su mente desbordada, rasgo buscando,  
-en las sombras de su furia, la obra grita. 
+en las sombras de su furia, la roca grita. 
 
 Al amanecer,  
 mármol frío y tenso,  
