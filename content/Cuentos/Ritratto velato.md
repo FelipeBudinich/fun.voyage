@@ -18,7 +18,7 @@ con la luna que hiende.
 Eco en la calle.  
 
 En su mente alterada, cazo buscando,  
-en las sombras de su ansiedad, pierdo el control.  
+en las sombras de su ansiedad, rigen los astros.  
 
 Cambio la forma,  
 con cincel sobre piedra,  
